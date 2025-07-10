@@ -24,7 +24,7 @@ The app uses the Provider package for efficient state management and is structur
 
 ✅ Includes ProductCard, Cart, Checkout, and more
 
-✅ Available for just $6
+✅ Available for just $4
 
 📂 Project Structure
 
